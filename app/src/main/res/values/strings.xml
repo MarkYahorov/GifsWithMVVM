@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GifsWithMVVM</string>
+    <string name="enter_gif">Enter Gif</string>
+</resources>
